@@ -1,0 +1,21 @@
+body {
+  background-color: lightgray
+}
+
+.container {
+  text-align: center;
+  background-color: #1C2639;
+  color: white;
+  border-radius: 15px;
+  max-width: 85vw;
+  margin: 40px;
+  box-shadow: 0px 0px 20px rgba(20, 20, 20, 0.9);
+}
+
+.table-wrapper {
+  margin-top: 15px;
+}
+
+.pagination .MuiSelect-icon {
+  color: white;
+}

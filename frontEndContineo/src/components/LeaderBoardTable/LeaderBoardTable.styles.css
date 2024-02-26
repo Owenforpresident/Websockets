@@ -1,0 +1,24 @@
+.table-container {
+    overflow-x: auto;
+}
+
+.player-container {
+    display: flex;
+    align-items: center;
+}
+
+.table-cell {
+    vertical-align: middle;
+}
+
+
+.table-row .MuiTableCell-root {
+    padding: 6px 15px;
+}
+
+.avatar {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
