@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This technical test project consists of a frontend and backend application. The frontend is a React-based dashboard themed around 6-nations rugby, displaying country avatars along with the number of tries scored and their relative rank. The backend, built with Node.js, provides simulated real-time data updates for the dashboard.
+This project consists of a frontend and backend application. The frontend is a React-based leaderboard themed around 6-nations rugby, displaying players, their corresponding country avatars along with the number of tries scored and their relative rank. The backend, built with Node.js, provides simulated real-time data updates for the front end application.
 
 ## Frontend Setup
 
